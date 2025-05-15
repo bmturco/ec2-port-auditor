@@ -93,4 +93,4 @@ MIT or your preferred license.
 
 ## 👤 Author
 
-Script developed by [Your Name] as part of AWS security and compliance auditing toolkit.
+Script developed by Brenden Turco as part of AWS security and compliance auditing toolkit.
